@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ashkan 👋  
+💻 Self-taught front-end developer with a background in Computer Science  
+🚀 Currently building restaurant apps with React
+🌍 Based in Turkey | 🌱 Always learning
 
 <!--
 **ashkan-zs/ashkan-zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
